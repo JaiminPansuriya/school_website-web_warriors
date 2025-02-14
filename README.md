@@ -1,7 +1,8 @@
 
 # Coding School Website
 
-![Coding School Website Preview](https://via.placeholder.com/800x400.png?text=Coding+School+Website+Preview)
+![image](https://github.com/user-attachments/assets/e2bdedb5-903c-4ac2-b8cb-3933834450f6)
+
 
 ## Overview
 
@@ -32,7 +33,7 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 
 2. **Navigate to the project folder**:
    ```bash
-   cd coding-school-website
+   cd Education Website
    ```
 
 3. **Open the project**:
@@ -50,6 +51,20 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 - **JavaScript**: For adding interactivity and handling form submissions.
 - **Formspree**: For processing contact form submissions via email.
 
+
+## Images
+
+
+![image](https://github.com/user-attachments/assets/e2bdedb5-903c-4ac2-b8cb-3933834450f6)
+![image](https://github.com/user-attachments/assets/3b45f2d0-2c6a-473a-8514-5ef667a1b1f9)
+![image](https://github.com/user-attachments/assets/77af66dd-cfee-4ea5-9db0-44c0e171ae5b)
+![image](https://github.com/user-attachments/assets/b9eec6c7-184d-422f-b751-33d7016696a9)
+![image](https://github.com/user-attachments/assets/d89ae828-bac6-4b76-a663-61b3226b1254)
+![image](https://github.com/user-attachments/assets/5b63f529-dcc2-4b37-a146-59a3a7dda03f)
+![image](https://github.com/user-attachments/assets/42659823-6901-4c94-ad12-1626b6ddc1d2)
+
+
+
 ## Contact
 
 For any issues, suggestions, or contributions, feel free to reach out:
@@ -62,10 +77,3 @@ For any issues, suggestions, or contributions, feel free to reach out:
 
 **Happy Coding!** 🚀
 ```
-
-### Notes:
-1. **Image Placeholder**: Replace the placeholder image URL (`https://via.placeholder.com/800x400.png?text=Coding+School+Website+Preview`) with an actual screenshot or preview image of your website. You can upload the image to a service like [Imgur](https://imgur.com/) or include it in your repository.
-2. **Repository URL**: Replace `<repository_url>` with the actual URL of your Git repository.
-3. **Contact Details**: Update the contact section with your name, email, and social media links.
-
-This `README.md` file provides a clear and professional overview of your project, making it easy for others to understand and use.
