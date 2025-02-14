@@ -45,3 +45,18 @@ const closeNav = () => {
 }
 
 closeBtn.addEventListener('click', closeNav)
+s
+document.querySelectorAll('.privacy a').forEach(link => {
+    link.addEventListener('click', function(event) {
+        event.preventDefault(); 
+        const url = this.getAttribute('href');
+        const fileName = url.split('/').pop();
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    });
+});
+
